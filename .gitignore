@@ -75,5 +75,7 @@ DerivedDataCache/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-/shinsekaiArcade/Saved/Logs
-/shinsekaiArcade/Saved/Logs
+
+# Other ignored directories
+/shinsekaiArcade/Saved/*
+/shinsekaiArcade/Intermediate/*

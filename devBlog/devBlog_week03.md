@@ -17,7 +17,11 @@
   - This is the one that's currently used in-game, for when objects or NPCs are interactable
 
 ### Artistic
--
+- Prepared models/ assigned unique materials in Maya to import into substance painter
+- Fully textured all finished models
+- Imported meshes, rigs, and textures into unreal
+- Created materials in unreal to reflect the work done in substance painter
+- Established a pipeline for transferring glass textures from Substance Painter -> Unreal Engine
 
 ### General
 -

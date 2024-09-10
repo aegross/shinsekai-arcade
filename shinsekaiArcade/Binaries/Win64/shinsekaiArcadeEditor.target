@@ -2866,30 +2866,6 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/AutoSizeComments/Binaries/Win64/UnrealEditor-AutoSizeComments.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/AutoSizeComments/Binaries/Win64/UnrealEditor-AutoSizeComments.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/AutoSizeComments/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/BlueprintAssist/Binaries/Win64/UnrealEditor-BlueprintAssist.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/BlueprintAssist/Binaries/Win64/UnrealEditor-BlueprintAssist.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/BlueprintAssist/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UnrealEditor-RD.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -26484,14 +26460,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/AutoSizeComments/AutoSizeComments.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/BlueprintAssist/BlueprintAssist.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/RiderLink.uplugin",
 			"Type": "UFS"
 		},
@@ -26779,13 +26747,11 @@
 		"AudioCapture",
 		"AudioSynesthesia",
 		"AudioWidgets",
-		"AutoSizeComments",
 		"AutomationUtils",
 		"AvfMedia",
 		"BackChannel",
 		"BaseCharacterFXEditor",
 		"BlendSpaceMotionAnalysis",
-		"BlueprintAssist",
 		"BlueprintHeaderView",
 		"Bridge",
 		"CLionSourceCodeAccess",

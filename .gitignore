@@ -44,21 +44,31 @@
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
+/shinsekaiArcade/SourceArt/**/*.png
+/shinsekaiArcade/SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
+/shinsekaiArcade/Binaries/*
+/shinsekaiArcade/Plugins/*/Binaries/*
 
 # Builds
 Build/*
+/shinsekaiArcade/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
 !Build/*/PakBlacklist*.txt
 
+!/shinsekaiArcade/Build/*/
+/shinsekaiArcade/Build/*/**
+!/shinsekaiArcade/Build/*/PakBlacklist*.txt
+
 # Don't ignore icon files in Build
 !Build/**/*.ico
+!/shinsekaiArcade/Build/**/*.ico
 
 # Built data for maps
 *_BuiltData.uasset
